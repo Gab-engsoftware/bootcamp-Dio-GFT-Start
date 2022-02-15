@@ -1,0 +1,27 @@
+        git --version -> Ver a versão do Git
+
+        git init -> inicializa um repositório git vazio
+
+        git add -> Manda os arquivos para a área de stage
+
+        git status -> Mostra as mudanças a serem commitadas
+
+        git commit -m "Mensagem do Commit" -> Commita o arquivo que está na área de Stage.
+
+        git branch -M "main" -> Muda o nome da linha principal de "(master) para (main)"
+
+        git remote add origin https://github.com/Gab-engsoftware/ProjetoGit.git -> Conectando repositório local com o do GitHub
+
+        git push -u origin main -> Empurrando o arquivo pro repositório do GitHub
+
+        git checkout -b "novo-botao" -> crinado uma branch
+
+        git checkout main -> muda para a branch principal
+
+        git merge novo-botao -> Junta a branch "novo-botao" com a main que é a principal.
+
+        git push origin main -> manda todas as informações para o Git-Hub na Branch principal.
+
+        git clone https://github.com/Gab-engsoftware/Campo-Minado-Swing (Clona um repositório)
+
+        git pull pega as últimas  atualizações no arquivo.
